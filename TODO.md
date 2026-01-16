@@ -14,7 +14,7 @@
 - volume
 - options
 
-## options
+### options
 - add folder
 - add file
 - output device
